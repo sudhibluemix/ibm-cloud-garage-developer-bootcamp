@@ -1,6 +1,6 @@
 import {apiWrapper} from './apiWrapper';
 
-describe.only('months', () => {
+describe('months', () => {
   it('canary test should always pass', () => {
     true.should.be.true();
   });
